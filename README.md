@@ -2,7 +2,7 @@
 You must recode the printf function from the C library according to the C99 standard. Your function should be prototyped like the printf function.<br>
 You do not have to implement the C library printf buffer handling.<br>
 You must process all printf formating flags except the following (which are optional):<br>
-• floatordoubletypesmanagement,<br>
+• float or double types management,<br>
 • %n flagmanagement,<br>
 • “*”,&quot;’“and&quot;I”(capitali)flagsmanagement.<br>
 You must add a %b formating flag, which prints unsigned numbers in a binary base.<br>
